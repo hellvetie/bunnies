@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(221, 187, 207);
+    color:honeydew;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+a{
+    color:rgb(221, 187, 207);
+    text-decoration: none;
+    font-family: 'Mooli', sans-serif;
+    transition: 0.9s;
+}
+
+a:hover{
+    background-color: blueviolet;
+    transition: 0.3s;
+    color: black;
+}
