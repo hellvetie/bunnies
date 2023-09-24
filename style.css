@@ -11,9 +11,3 @@ a{
     font-family: 'Mooli', sans-serif;
     transition: 0.9s;
 }
-
-a:hover{
-    background-color: blueviolet;
-    transition: 0.3s;
-    color: black;
-}
